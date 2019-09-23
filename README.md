@@ -22,7 +22,7 @@ Dalam hal ini akan dijelaskan langkah deployment model credit scoring dengan men
 ![postman](picture/postman.jpg)
 
 3. Ubah pilihan default "GET" dibawah Untitled Request menjadi "POST".
-4. Copy link berikut romantikatara.pythonanywhere.com/api dan jatuhkan pada "Enter URL request.
+4. Copy link berikut **romantikatara.pythonanywhere.com/api** dan jatuhkan pada "Enter URL request.
 
 ![postman](picture/launchpad.jpg)
 
