@@ -17,13 +17,25 @@ Metode credit scoring yang digunakan pada dataset tersebut adalah dengan random 
 ## Langkah-langkah Menjalankan Model Credit Scoring
 Dalam hal ini akan dijelaskan langkah deployment model credit scoring dengan menggunakan postman.
 1. Anda dapat membuka aplikasi postman.
-2. Klik tanda "+" yang tertera disebelah launchpad pada tampilan postman. ![postman](picture/postman.jpg)
+2. Klik tanda "+" yang tertera disebelah launchpad pada tampilan postman.
+
+![postman](picture/postman.jpg)
+
 3. Ubah pilihan default "GET" dibawah Untitled Request menjadi "POST".
-4. Copy link berikut romantikatara.pythonanywhere.com/api dan jatuhkan pada "Enter URL request. ![postman](picture/launchpad.jpg)
+4. Copy link berikut romantikatara.pythonanywhere.com/api dan jatuhkan pada "Enter URL request.
+
+![postman](picture/launchpad.jpg)
+
 5. Klik "Body" pada deretan menu di bawah link.
-6. Klik "Raw" pada pilihan menu "Body". ![postman](picture/body%20raw.jpg)
+6. Klik "Raw" pada pilihan menu "Body".
+
+![postman](picture/body%20raw.jpg)
+
 7. Open file "Testing 10 Input.txt" pada github ini.
-8. Copy Input pada file .txt ke kotak dialog Raw Body. ![postman](picture/input.jpg)
+8. Copy Input pada file .txt ke kotak dialog Raw Body.
+
+![postman](picture/input.jpg)
+
 9. (Opsional) Nilai pada masing-masing features dapat diubah dengan ketentuan:
     - Age: usia nasabah pelaku kredit dalam tahun
     - Marriage: status pernikahan nasabah. 1 = Belum Menikah, 2 = Menikah, 3 = Lainnya
