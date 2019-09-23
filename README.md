@@ -1,4 +1,5 @@
 # Analytics Model Deployment
+
 Model ini dibuat dengan memanfaatkan data record nasabah pelaku kredit dengan memanfaatkan data Astra Credit Scoring. Data tersebut didapat dari [Astra Credit Scoring](https://github.com/khairunisa6/Study-Case-Astra-Creditscore).
 
 Dataset berisi informasi terkait nasabah kartu kredit di suatu negara pada periode Januari - Maret 2015. Informasi meliputi latar belakang pelanggan, jumlah tagihan, jumlah pembayaran, lama terlambat bayar dan status pembayaran bulan berikutnya (April 2015).
