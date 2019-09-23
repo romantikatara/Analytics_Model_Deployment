@@ -33,9 +33,6 @@ Dalam hal ini akan dijelaskan langkah deployment model credit scoring dengan men
 
 7. Open file "Testing 10 Input.txt" pada github ini.
 8. Copy Input pada file .txt ke kotak dialog Raw Body.
-
-![postman](picture/input.jpg)
-
 9. (Opsional) Nilai pada masing-masing features dapat diubah dengan ketentuan:
     - Age: usia nasabah pelaku kredit dalam tahun
     - Marriage: status pernikahan nasabah. 1 = Belum Menikah, 2 = Menikah, 3 = Lainnya
@@ -44,7 +41,12 @@ Dalam hal ini akan dijelaskan langkah deployment model credit scoring dengan men
     - Pay_3: waktu pembayaran tagihan bulan 3. 0 = Tidak Terlambat, 1 = Terlambat 1 bulan, dst.
 10. Banyaknya row input yang ingin dilakukan dapat disesuaikan dengan keinginan, bisa dikurangkan ataupun ditambahkan. Jangan lupa untuk menyertakan pasangan kurung siku "[...]" di awal dan akhir.
 11. Setelah input data selesai, klik "Send" untuk memanggil model yang tersimpan pada pythonanywhere.com sehingga dapat memproses model credit scoring.
+
+![postman](picture/input.jpg)
+
 12. Hasil akan muncul pada menu Body di bawah kotak dialog tersebut (Pilihan Pretty, Raw, dan Preview sama saja, hanya berbeda di tampilan keluarannya saja.
 13. Jika terdapat kegagalan pada output, coba klik "Send" sekali lagi.
+
+![postman](picture/result.jpg)
 
 Selamat mencoba :)
