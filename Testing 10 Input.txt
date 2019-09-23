@@ -1,0 +1,26 @@
+Input :
+
+[{"AGE":32, "MARRIAGE":2, "PAY_1":0, "PAY_2":2, "PAY_3":1},
+
+{"AGE":28, "MARRIAGE":1, "PAY_1":1, "PAY_2":0, "PAY_3":2},
+
+{"AGE":20, "MARRIAGE":1, "PAY_1":0, "PAY_2":1, "PAY_3":0},
+
+{"AGE":29, "MARRIAGE":1, "PAY_1":1, "PAY_2":0, "PAY_3":2},
+
+{"AGE":40, "MARRIAGE":2, "PAY_1":0, "PAY_2":2, "PAY_3":3},
+
+{"AGE":45, "MARRIAGE":2, "PAY_1":1, "PAY_2":0, "PAY_3":1},
+
+{"AGE":37, "MARRIAGE":2, "PAY_1":0, "PAY_2":1, "PAY_3":0},
+
+{"AGE":27, "MARRIAGE":1, "PAY_1":0, "PAY_2":3, "PAY_3":2},
+
+{"AGE":42, "MARRIAGE":2, "PAY_1":1, "PAY_2":0, "PAY_3":0},
+
+{"AGE":47, "MARRIAGE":2, "PAY_1":0, "PAY_2":2, "PAY_3":0}]
+
+Output:
+
+["Approved","Not Approved","Not Approved","Not Approved",
+"Approved","Approved","Approved","Not Approved","Approved","Approved"]
