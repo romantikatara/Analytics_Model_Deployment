@@ -17,7 +17,7 @@ Metode credit scoring yang digunakan pada dataset tersebut adalah dengan random 
 ## Langkah-langkah Menjalankan Model Credit Scoring
 Dalam hal ini akan dijelaskan langkah deployment model credit scoring dengan menggunakan postman.
 1. Anda dapat membuka aplikasi postman.
-![Postman](D:\TARA\Practice Case\Practice Case Analytics Model Deployment\postman.png)
+![Postman](https://github.com/tara071094/AnalyticsModelDeployment/tree/master/picture/postman.png)
 2. Klik tanda "+" yang tertera disebelah launchpad pada tampilan postman.
 3. Ubah pilihan default "GET" dibawah Untitled Request menjadi "POST".
 4. Copy link berikut romantikatara.pythonanywhere.com/api dan jatuhkan pada "Enter URL request".
