@@ -25,11 +25,11 @@ Dalam hal ini akan dijelaskan langkah deployment model credit scoring dengan men
 7. Open file "Testing 10 Input.txt" pada github ini.
 8. Copy Input pada file .txt ke kotak dialog Raw Body.
 9. (Opsional) Nilai pada masing-masing features dapat diubah dengan ketentuan:
-a. Age: usia nasabah pelaku kredit dalam tahun
-b. Marriage: status pernikahan nasabah. 1 = Belum Menikah, 2 = Menikah, 3 = Lainnya
-c. Pay_1: waktu pembayaran tagihan bulan 1. 0 = Tidak Terlambat, 1 = Terlambat 1 bulan, dst.
-d. Pay_2: waktu pembayaran tagihan bulan 2. 0 = Tidak Terlambat, 1 = Terlambat 1 bulan, dst.
-e. Pay_3: waktu pembayaran tagihan bulan 3. 0 = Tidak Terlambat, 1 = Terlambat 1 bulan, dst.
+- Age: usia nasabah pelaku kredit dalam tahun
+- Marriage: status pernikahan nasabah. 1 = Belum Menikah, 2 = Menikah, 3 = Lainnya
+- Pay_1: waktu pembayaran tagihan bulan 1. 0 = Tidak Terlambat, 1 = Terlambat 1 bulan, dst.
+- Pay_2: waktu pembayaran tagihan bulan 2. 0 = Tidak Terlambat, 1 = Terlambat 1 bulan, dst.
+- Pay_3: waktu pembayaran tagihan bulan 3. 0 = Tidak Terlambat, 1 = Terlambat 1 bulan, dst.
 10. Banyaknya row input yang ingin dilakukan dapat disesuaikan dengan keinginan, bisa dikurangkan ataupun ditambahkan.
 11. Setelah input data selesai, klik "Send" untuk memanggil model yang tersimpan pada pythonanywhere.com sehingga dapat memproses model credit scoring.
 12. Hasil akan muncul pada menu Body di bawah kotak dialog tersebut (Pilihan Pretty, Raw, dan Preview sama saja, hanya berbeda di tampilan keluarannya saja.
