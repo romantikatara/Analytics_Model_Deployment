@@ -33,5 +33,6 @@ Dalam hal ini akan dijelaskan langkah deployment model credit scoring dengan men
 10. Banyaknya row input yang ingin dilakukan dapat disesuaikan dengan keinginan, bisa dikurangkan ataupun ditambahkan. Jangan lupa untuk menyertakan pasangan kurung siku "[...]" di awal dan akhir.
 11. Setelah input data selesai, klik "Send" untuk memanggil model yang tersimpan pada pythonanywhere.com sehingga dapat memproses model credit scoring.
 12. Hasil akan muncul pada menu Body di bawah kotak dialog tersebut (Pilihan Pretty, Raw, dan Preview sama saja, hanya berbeda di tampilan keluarannya saja.
+13. Jika terdapat kegagalan pada output, coba klik "Send" sekali lagi.
 
 Selamat mencoba :)
